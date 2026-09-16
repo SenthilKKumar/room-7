@@ -1,0 +1,20 @@
+{
+  "turns": 2,
+  "tool_calls": 1,
+  "tool_names": [
+    "lookup_booking"
+  ],
+  "saw_thinking": false,
+  "used_format": false,
+  "used_tool_choice_none": false,
+  "streamed": false,
+  "deltas_seen": 0,
+  "tokens": {
+    "input": 5269,
+    "output": 138,
+    "cache_read": 0,
+    "cache_write": 0
+  },
+  "cache_hit_ratio": null,
+  "elapsed": 4.8
+}
